@@ -58,7 +58,7 @@ tmdb의 api를 이용해 진행하였습니다.
 # 👤 FE/BE 팀 정보
 |이름|FE/BE|Github 주소|
 |---|---|---|
-|이재훈|BE| - |
+|이재훈|BE| https://github.com/Gem-o-b |
 |김나현|BE|https://github.com/hunny-A|
 |함동진|BE| - |
 |신은진|FE|https://github.com/JESin10|
