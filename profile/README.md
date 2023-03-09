@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 
@@ -27,7 +26,9 @@ tmdb의 api를 이용해 진행하였습니다.
     
     yarn install
     
-# 👤 FE/BE 팀 정보
+# 👤 기술 스택
+- FE
+- BE
 
 
 
@@ -44,10 +45,24 @@ tmdb의 api를 이용해 진행하였습니다.
 # 🎥 페이지 예시
 <img width="2240" alt="스크린샷 2023-03-09 오후 6 28 17" src="https://user-images.githubusercontent.com/119720123/224025686-a8d7d28c-046c-4337-8d90-67e03cf263f1.png">
 
-
 #  📌ERD
-![screencapture-notion-so-jin29-e1fbb1aaf8b94ee1a2b265eeb347ccb8-2023-03-09-23_04_08](https://user-images.githubusercontent.com/91798823/224050312-f0e4247b-252d-4f80-87e1-a72a73161eb1.png)
+![image](https://user-images.githubusercontent.com/91798823/224053052-7db7c5ce-c769-4fc4-84c8-b3dfc8b5a7e7.png)
 
+
+#  📌API 명세서
+![screencapture-notion-so-jin29-e1fbb1aaf8b94ee1a2b265eeb347ccb8-2023-03-09-23_04_08](https://user-images.githubusercontent.com/91798823/224052993-d54e1c66-3c15-4475-b4c9-a3e4e37d583f.png)
+
+
+--------------------------------
+
+# 👤 FE/BE 팀 정보
+|이름|FE/BE|Github 주소|
+|---|---|---|
+|이재훈|BE| - |
+|김나현|BE|https://github.com/hunny-A|
+|함동진|BE| - |
+|신은진|FE|https://github.com/JESin10|
+|송진환|FE|https://github.com/jinhwansong|
 
 
 # 🔎 참고 링크
@@ -56,11 +71,11 @@ tmdb의 api를 이용해 진행하였습니다.
 
 
 ## Commit msg
---- 제목 ---
+* 제목
 [커밋 타입]: [작업내용을 50자 이내 요약] #[이슈번호]
---- 본문 ---
-1. 무엇을 수정했는지
-2. 왜 수정했는지
+* 본문
+    1. 무엇을 수정했는지
+    2. 왜 수정했는지
 
 
 ## Check List
