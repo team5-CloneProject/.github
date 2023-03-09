@@ -68,7 +68,7 @@ tmdb의 api를 이용해 진행하였습니다.
 |---|---|---|
 |이재훈|BE| https://github.com/Gem-o-b |
 |김나현|BE|https://github.com/hunny-A|
-|함동진|BE| - |
+|함동진|BE| https://github.com/eastjin |
 |신은진|FE|https://github.com/JESin10|
 |송진환|FE|https://github.com/jinhwansong|
 
