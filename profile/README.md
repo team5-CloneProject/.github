@@ -1,37 +1,30 @@
 
-<!--
+# 🎬 Netfilx Clone Coding
+프로젝트명 : NetFlix 클론코딩
 
-**Here are some ideas to get you started:**
+프로젝트 소개 : tmdb의 api를 이용해 대표적 OTT 사이트인 Netfilx 클론코딩을 진행하였습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-# Netfilx Clone
-OTT NetFlix 클론코딩
-
-노션 링크 : https://www.notion.so/jin29/5-98fef6ae11304e0382d758dc60d5b2c2
-
-
-# 프로젝트 소개
-넷플릭스 클론코딩을 진행하였습니다.
-tmdb의 api를 이용해 진행하였습니다.
+[팀 노션 링크](https://www.notion.so/jin29/5-98fef6ae11304e0382d758dc60d5b2c2)
 
 # 🚀 Usage & Install
+1. Clone the repository
 
-    yarn start
+2. Install dependencies
+
+   `yarn start`
+
+3. Run the app
+
+   `yarn install`
     
-    yarn install
-    
-# 👤 기술 스택
-- FE
+# ⚙️ 기술 스택
+### Frontend
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=react query&logoColor=white"> <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=react router&logoColor=white"> 
 
-- BE     
+<img src="https://img.shields.io/badge/create react app-09D3AC?style=for-the-badge&logo=create react app&logoColor=black"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+
+### Backend     
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
 
@@ -48,15 +41,15 @@ tmdb의 api를 이용해 진행하였습니다.
 
 
 
-# 🎥 페이지 예시
+# 📌 페이지 예시
 <img width="2240" alt="스크린샷 2023-03-09 오후 6 28 17" src="https://user-images.githubusercontent.com/119720123/224025686-a8d7d28c-046c-4337-8d90-67e03cf263f1.png">
 
-#  📌ERD
-![image](https://user-images.githubusercontent.com/91798823/224053052-7db7c5ce-c769-4fc4-84c8-b3dfc8b5a7e7.png)
+# 📌 ERD
+<img width="80%" alt="ERD 예시" src="https://user-images.githubusercontent.com/91798823/224053052-7db7c5ce-c769-4fc4-84c8-b3dfc8b5a7e7.png">
 
 
-#  📌API 명세서
-![screencapture-notion-so-jin29-e1fbb1aaf8b94ee1a2b265eeb347ccb8-2023-03-09-23_04_08](https://user-images.githubusercontent.com/91798823/224052993-d54e1c66-3c15-4475-b4c9-a3e4e37d583f.png)
+# 📌 API 명세서
+<img width="80%" alt="API 명세서" src="https://user-images.githubusercontent.com/91798823/224052993-d54e1c66-3c15-4475-b4c9-a3e4e37d583f.png">
 
 
 --------------------------------
@@ -72,11 +65,13 @@ tmdb의 api를 이용해 진행하였습니다.
 
 
 # 🔎 참고 링크
-- [협업 노션 페이지](https://jin29.notion.site/e1fbb1aaf8b94ee1a2b265eeb347ccb8?v=abae7a28c2d84bcdb71da069beaa933e)
-- [api 사이트](https://www.themoviedb.org)
+- [팀 노션 링크](https://www.notion.so/jin29/5-98fef6ae11304e0382d758dc60d5b2c2)
+- [영화 및 드라마 정보 API 사이트](https://www.themoviedb.org)
 
 
-## Commit msg
+# 🎮 Commit Rule
+
+### Commit msg
 * 제목
 [커밋 타입]: [작업내용을 50자 이내 요약] #[이슈번호]
 * 본문
@@ -84,7 +79,7 @@ tmdb의 api를 이용해 진행하였습니다.
     2. 왜 수정했는지
 
 
-## Check List
+### Check List
 - 제목 첫 글자는 대문자로 작성했나요?
 - 제목은 명령문으로 작성했나요?
 - 제목 끝에 마침표(.) 금지
@@ -92,7 +87,7 @@ tmdb의 api를 이용해 진행하였습니다.
 - 본문에 여러줄의 메시지를 작성할 땐 "-"로 구분했나요?
 
 
-## commit type
+### Commit type
 - feat     : 기능 (새로운 기능)
 - fix      : 버그 (버그 수정)
 - update     : 기능 보완 (업그레이드)
